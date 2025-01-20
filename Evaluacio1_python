@@ -1,3 +1,4 @@
+# Carlos Javier Ramos Martinez
 def calcular_promedio(temps):
     return sum(temps) / len(temps)
 
